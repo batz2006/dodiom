@@ -4,7 +4,7 @@ import nltk
 from nltk import SnowballStemmer
 
 from i18n import Language
-from models import Mwe
+from models import Mwe  
 from nlp.parser import Parser
 
 
