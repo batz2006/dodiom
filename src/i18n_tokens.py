@@ -10,6 +10,7 @@ class Token(Enum):
     LANGUAGE_ENGLISH = auto()
     LANGUAGE_TURKISH = auto()
     LANGUAGE_ITALIAN = auto()
+    LANGUAGE_RUSSIAN = auto()
     TODAYS_MWE_REPLY_TEXT = auto()
     SELECT_LANGUAGE = auto()
     LANGUAGE_CHANGE_SUCCESSFUL = auto()

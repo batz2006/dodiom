@@ -9,6 +9,7 @@ it_translations = {
     Token.LANGUAGE_ENGLISH: "Inglese (EN) 🇬🇧",
     Token.LANGUAGE_TURKISH: "Turco (TR) 🇹🇷",
     Token.LANGUAGE_ITALIAN: "Italiano (IT) 🇮🇹",
+    Token.LANGUAGE_RUSSIAN: "Russo (RU) 🇷🇺",
     Token.TODAYS_MWE_REPLY_TEXT: "Il modo di dire di oggi è  \'<b><u>%s</u></b>\', che significa: <i>%s</i>",
     Token.SELECT_LANGUAGE: "Seleziona la lingua",
     Token.LANGUAGE_CHANGE_SUCCESSFUL: "La lingua è *italiano*.",

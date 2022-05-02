@@ -9,6 +9,7 @@ tr_translations = {
     Token.LANGUAGE_ENGLISH: "English (EN) 🇬🇧",
     Token.LANGUAGE_TURKISH: "Türkçe (TR) 🇹🇷",
     Token.LANGUAGE_ITALIAN: "İtalyanca (IT) 🇮🇹",
+    Token.LANGUAGE_RUSSIAN: "Rusça (RU) 🇷🇺",
     Token.TODAYS_MWE_REPLY_TEXT: "Günün deyimi \'<b><u>%s</u></b>\', anlamı da: <i>%s</i>",
     Token.SELECT_LANGUAGE: "Lütfen bir dil seçin.",
     Token.LANGUAGE_CHANGE_SUCCESSFUL: "Dil *Türkçe* olarak ayarlandı.",
